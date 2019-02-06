@@ -1,9 +1,0 @@
-Hardware:
-Raspberry Pi
-
-Software:
-Python 3.7.1
-Nginx
-PHP
-PostgreSQL
-
